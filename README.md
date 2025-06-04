@@ -42,4 +42,4 @@ Netflix is a trademark of Netflix, Inc.
 ###🙋‍♀️ Author
 Harshavarthini Harsha
 📧 harshnagooran@gmail.com
-🔗 github.com/
+🔗 https://github.com/Harshaharsha2004
